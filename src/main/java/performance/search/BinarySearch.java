@@ -3,6 +3,7 @@ package performance.search;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.Stack;
 
 public class BinarySearch {
 
@@ -26,8 +27,6 @@ public class BinarySearch {
         int intIndexOfalgorithmTest = 1234;
         System.out.println(indexOfalgorithmTest.indexOf("est"));
 
-        List list = new ArrayList();
-        list.indexOf();
 
 
 
